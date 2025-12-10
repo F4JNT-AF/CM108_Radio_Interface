@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CM108")(type "Legacy")(uri "${KIPRJMOD}/Libraries/Cmedia/CM108.lib")(options "")(descr ""))
+  (lib (name "cm108b-eval-rescue")(type "KiCad")(uri "${KIPRJMOD}/cm108b-eval-rescue.kicad_sym")(options "")(descr ""))
+)

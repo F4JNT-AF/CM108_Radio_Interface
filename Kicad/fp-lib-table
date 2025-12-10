@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Vishay")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Vishay")(options "")(descr ""))
+  (lib (name "CUI")(type "KiCad")(uri "${KIPRJMOD}/Libraries/CUI")(options "")(descr ""))
+  (lib (name "Wurth")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Wurth")(options "")(descr ""))
+)
