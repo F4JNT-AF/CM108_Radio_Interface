@@ -7361,7 +7361,7 @@
 				)
 			)
 		)
-		(property "Value" "39"
+		(property "Value" "22"
 			(at 73.66 36.4744 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7473,7 +7473,7 @@
 				)
 			)
 		)
-		(property "Value" "39"
+		(property "Value" "22"
 			(at 73.66 47.0916 90)
 			(show_name no)
 			(do_not_autoplace no)
