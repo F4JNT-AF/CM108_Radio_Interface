@@ -1,6 +1,6 @@
 ![Interface](/Images/image-4.png)
 
-# [FR]
+# [FR] (EN below)
 ## Description
 Une interface basique USB entre une radio et un PC. Rien de révolutionnaire, j'ai essayé de mettre le maximum de composants traversants, avec deux exceptions assez techniques, le CM108 lui-même (pas trop le choix quand on veut faire une interface a base de CM108 :) ) et le connecteur USB-C (très pratique pour connecter en direct au téléphone sans OTG).
 
@@ -21,6 +21,8 @@ Le connecteur vers la radio est un RJ45. Le pinout est:
 7. GND radio
 8. GND radio
 
+## Configuration de l'EEPROM
+Utiliser le fichier .cfg (optionnel: mettre un numéro de série) ou .hex avec [mon configurateur d'EEPROM pour CM108B](https://github.com/F4JNT-AF/CM108B_EEPROM_Manager).
 
 ## Note
 Comme toutes les interfaces de ce type, elle est plutôt sensible aux retours RF, je conseille de mettre des ferrites, au moins sur le câble USB.
@@ -47,6 +49,9 @@ Connector to radio is RJ45. Pinout:
 6. GND radio
 7. GND radio
 8. GND radio
+
+## EEPROM configuration
+Use the .cfg file (optional: put a serial number) or .hex file with [my CM108B EEPROM configurator](https://github.com/F4JNT-AF/CM108B_EEPROM_Manager).
 
 ## Note
 Note: As all interfaces of this type, it is vulnerable to RF feedback, I'd advise to at least add some ferrites to USB cable.
